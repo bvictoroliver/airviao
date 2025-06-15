@@ -4,9 +4,9 @@ Um jogo simples de avião de guerra onde você controla um avião e deve atirar 
 
 ## 🎬 Demonstração
 
-https://github.com/bvictoroliver/airviao/assets/video.mp4
+![Demonstração do jogo](assets/demo.gif)
 
-> Ou veja o vídeo em [assets/video.mp4](assets/video.mp4)
+> Ou veja o vídeo completo em [assets/video.mp4](assets/video.mp4)
 
 ## 🚀 Sobre o Projeto
 
