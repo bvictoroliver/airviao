@@ -6,8 +6,6 @@ Um jogo simples de avião de guerra onde você controla um avião e deve atirar 
 
 ![Demonstração do jogo](assets/demo.gif)
 
-> Ou veja o vídeo completo em [assets/video.mp4](assets/video.mp4)
-
 ## 🚀 Sobre o Projeto
 
 Este projeto foi criado como um experimento de aprendizado e diversão, com o apoio de uma Inteligência Artificial para acelerar o desenvolvimento, sugerir ideias e resolver problemas de código. A IA ajudou desde a estruturação inicial até detalhes de lógica e documentação!
@@ -37,7 +35,7 @@ python main.py
 - Espaço: Atirar
 
 ## 🏆 Objetivo
-Atire nos aviões inimigos (quadrados vermelhos) que vêm de cima da tela. Cada inimigo destruído vale pontos. 
+Destrua os aviões inimigos que aparecem na tela. Cada inimigo destruído vale pontos. 
 
 ---
 
